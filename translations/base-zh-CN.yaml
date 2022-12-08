@@ -96,9 +96,9 @@ mainMenu:
         warningPuzzleDLC: 无法在任何游戏模组（Mods）下进行“谜题挑战者” DLC，请关闭所有游戏模组（Mods）。
     playingFullVersion: 您正在玩完整版游戏！
     logout: 登出
-    noActiveSavegames: No active savegames found - Click play to start a new game!
-    playFullVersionV2: Bough shapez on Steam? Play the full version in your Browser!
-    playFullVersionStandalone: You can now also play the full version in your Browser!
+    noActiveSavegames: 没有可用的存档，点击开始游戏吧！
+    playFullVersionV2: 已经在Steam上购买了完整版Shapez吗？现在在浏览器上体验完整版吧！
+    playFullVersionStandalone: 你现在也可以在浏览器上游玩完整版的Shapez！
 dialogs:
     buttons:
         ok: 确认
@@ -1051,8 +1051,8 @@ tips:
     - 凡事预则立！不预则废！
     - 尽量不要删除旧的设施和生产线，您会需要他们生产的东西来升级设施并提高效率。
     - 先给自己定一个小目标：自己完成 20 级！不去看别人的攻略！
-    - 不要把问题复杂化，试着保持简单，您会成功的。
-    - 您可能需要在游戏的后期重复使用工厂。把您的工厂规划成可重复使用的。
+    - 不要把问题复杂化，一切从简，你可以做到的。
+    - 您可能需要在游戏的后期重复使用工厂。尝试在规划的时候保留应有的扩展性。
     - 有时，您可以在地图上直接找到您需要的图形，并不需要使用堆叠机去合成它。
     - 风车图形不会自动产生
     - 在切割前，给您的图形上色可以获得最高的效率。
@@ -1157,7 +1157,7 @@ mods:
     openFolder: 打开游戏模组（Mods）文件夹
     folderOnlyStandalone: 只有完整版才可以打开游戏模组（Mods）文件夹。
     browseMods: 浏览游戏模组（Mods）
-    modsInfo: 要安装和管理游戏模组（Mods），请将它们复制到游戏模组文件夹（使用右上角的“打开游戏模组（Mods）文件夹”按钮）。记住在管理完游戏模组（Mods）后，请务必重启游戏，否则游戏模组（Mods）是不会出现的。
+    modsInfo: 要安装和管理游戏模组（Mods），请将它们复制到游戏模组文件夹（使用右上角的“打开游戏模组（Mods）文件夹”按钮）。记住在编辑完游戏模组（Mods）后，请务必重启游戏，否则游戏模组（Mods）是不会出现的。
     noModSupport: 您需要在 Steam 平台获得完整版才可以安装游戏模组（Mods）。
     togglingComingSoon:
         title: 即将开放
